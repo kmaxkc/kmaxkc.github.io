@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Data Exploration And Cleaning
+title: First Post
 excerpt: "Just about everything you'll need to do with data cleaning."
-modified: 2016-03-03
+modified: 2016-04-025
 tags: [R, cleaning data, tutorial]
 comments: true
 image:

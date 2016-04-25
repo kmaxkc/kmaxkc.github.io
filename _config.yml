@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            NDVO
+title:            Khang Nguyen
 locale:           en_US
 url:
 
@@ -43,7 +43,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Kevin Vo
+  name: Khang Nguyen
   avatar: bio-photo.jpg
   bio: "Data Enthusiast, works in R and Python"
   email: kevinvo2710@gmail.com
