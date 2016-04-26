@@ -45,11 +45,11 @@ titlecase: true
 owner:
   name: Khang Nguyen
   avatar: bio-photo.jpg
-  bio: "Data Enthusiast, works in R and Python"
-  email: kevinvo2710@gmail.com
-  disqus-shortname: ndvo2710
+  bio: "Cooking and Zen"
+  email: kman579@gmail.com
+  disqus-shortname: MaxKc
   twitter: #username
-  facebook: https://www.facebook.com/kevinvomfesoa
+  facebook: https://www.facebook.com/BaoKhang1705
   google:
     plus: #username
     analytics:
@@ -57,9 +57,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: https://github.com/ndvo2710
+  github: https://github.com/kmaxkc
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: https://www.linkedin.com/in/nguyen-vo-kevin-36189624?trk=nav_responsive_tab_profile
+  linkedin: 
   xing: #username
   instagram: #username
   lastfm: #username
